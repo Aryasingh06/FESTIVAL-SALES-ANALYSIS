@@ -63,6 +63,10 @@ Festival-Sales-Analysis/
 ├── README.md
 └── images/
 
+# images
+# gender_analysis
+![gender_analysis](images/gender_analysis.png)
+
 Conclusion
 This analysis provides valuable insights into customer demographics and purchasing patterns, helping businesses make data-driven decisions for better marketing and sales strategies.
 
