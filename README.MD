@@ -66,6 +66,16 @@ Festival-Sales-Analysis/
 # images
 # gender_analysis
 ![gender_analysis](images/gender_analysis.png)
+#agegroup
+![agegroup](images/agegrp.png)
+#gender vs amount
+![Gender_Amount](images/gendervsamount.png)
+#product_amount
+![product_amount](images/productamount.png)
+#state amount
+![state_amount](images/statevsamount.png)
+#state orders
+![state_orders](images/statevsorders.png)
 
 Conclusion
 This analysis provides valuable insights into customer demographics and purchasing patterns, helping businesses make data-driven decisions for better marketing and sales strategies.
