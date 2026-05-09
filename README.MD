@@ -1,6 +1,6 @@
 Festival Sales Analysis (EDA Project)
 
-Project Overview
+ Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a festival sales dataset to uncover customer purchasing behavior and key business insights.The analysis helps identify target customers, high-performing regions, and popular product categories.
 
